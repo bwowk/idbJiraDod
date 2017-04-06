@@ -2,7 +2,7 @@ confirmDod = function(dod) {
   return confirm("Did you fulfill the DoD?\n"+dod);
 };
 
-dorBacklog = "Backlog:\n\
+dodBacklog = "Backlog:\n\
 - Check info provided and request more info – if needed – creating Sub-Blocks\n\
 - Count the Complexity Points and set the Complexity Points field of the parent issue\n\
 - Business rules details\n\
